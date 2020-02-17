@@ -1,3 +1,4 @@
 # ProgettoMarket
 ## Progetto market
-# "github-essential"
+echo # "github-essential" >> README.md
+git init
